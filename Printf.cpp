@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdarg.h>
 
-//Zaimplementować uproszczą funkcję "Printf": %c, %d, %f, %s oraz zmieniająca ` na '
+//Zaimplementować uproszczoną funkcję "Printf": %c, %d, %f, %s oraz zmieniająca ` na '
 
 int Printf(const char* sFormat, ...);
 int Printfv(const char* sFormat, va_list va_list);
